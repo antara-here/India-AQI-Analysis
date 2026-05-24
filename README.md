@@ -98,6 +98,35 @@ india-aqi-analysis/
 
 ---
 
+## 📝 Conclusion
+**Key takeaways:**
+- Air pollution in India worsened significantly between 
+  1990 and 2010, reflecting rapid industrialisation 
+  and urbanisation during that period
+
+- Northern states like Uttar Pradesh, Bihar and Rajasthan 
+  consistently show the highest pollution levels due to 
+  high population density and industrial activity
+
+- Winter months (October to January) show significantly 
+  higher AQI values — cold temperatures trap pollutants 
+  near ground level causing seasonal spikes
+
+- RSPM (Respirable Suspended Particulate Matter) is the 
+  single biggest contributor to poor air quality in India
+
+- The Random Forest model achieved 91% accuracy in 
+  predicting AQI category — proving that pollutant levels 
+  alone are strong predictors of air quality
+
+**Business impact:**
+This kind of analysis helps government bodies like CPCB, 
+smart city planners and environmental agencies make 
+data-driven decisions about pollution control policies, 
+industrial regulations and public health alerts.
+
+---
+
 ## 👩‍💻 About Me
 **Antara Bangal**
 BCA Graduate — Institute of Engineering and Management, Kolkata
